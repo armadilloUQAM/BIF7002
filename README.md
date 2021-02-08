@@ -52,7 +52,7 @@ Le fichier *test.fasta*  contient la polyprotéine du Plum pox virus.
 Le fichier *Example_DPSite.R.pdf* présente une vue graphique des résultats. 
 
 
-This code in R is inpired by the source code provided in:
+Ce code est largement inspiré de l'article:
 
 Zou, J., Huss, M., Abid, A., Mohammadi, P., Torkamani, A., & Telenti, A. (2018). A primer on deep learning in genomics. Nat Genet. 2019 Jan;51(1):12-18. doi: 10.1038/s41588-018-0295-5.
 
