@@ -1,8 +1,8 @@
 Tutorial sur les CNN et les RNN pour l'analyse de séquences
 ============================================================
 
-Ce répertoire inclus les fichiers pour la présentation 
-* L'utilisation de l'apprentissage profond dans l'analyse des séquences génomiques *
+Ce répertoire inclus les fichiers pour la présentation : 
+* L'utilisation de l'apprentissage profond dans l'analyse des séquences génomiques 
 
 Usage 
 ==========================================
