@@ -1,0 +1,16 @@
+git clone https://gccode.ssc-spc.gc.ca/EtienneLord/bioconf2020_dpsite.git
+conda activate ~/DeepLearningSequence/deeplearning
+cd bioconf2020_dpsite/
+Rscript dpsites.R
+
+
+
+
+
+
+
+
+username: workshop251
+password: Q9WK3xep5d
+
+
